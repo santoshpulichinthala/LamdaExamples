@@ -1,0 +1,16 @@
+lamda/UseSimpleInterface.class
+entitymappings/PersonDetails.class
+predicate/UsePredicate.class
+methodreference/UseMethodReference.class
+lamda/Compare.class
+Comparator/UseComparator.class
+lamda/Person.class
+lamda/SimpleInterface.class
+entitymappings/TestPerson.class
+predicate/UsePredicate$1.class
+lamda/PredicateTest.class
+Thread/UseRunnable.class
+Person.class
+Practice/ArrayListLamda.class
+methodreference/UseMethodReference$1.class
+entitymappings/Person.class
